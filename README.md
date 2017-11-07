@@ -1,2 +1,2 @@
 # GithubExampleProject
-Just another training repo
+Just another training repo great
